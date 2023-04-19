@@ -18,6 +18,7 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "react/jsx-filename-extension": [1, { "extension": [".js", ".jsx", ".ts", ".tsx"] }]
+        "react/jsx-filename-extension": [1, { "extension": [".js", ".jsx", ".ts", ".tsx"] }],
+        "jsx-a11y/anchor-is-valid": "off"
     }
 }
